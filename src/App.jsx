@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import bg from './assets/bg.jpg'
 import logo from './assets/logo.png'
-import video from './assets/Meli_final.mp4'
+import video from './assets/MeliBeautyFinal.mp4'
 
 function App() {
   const [isPressed, setIsPressed] = useState(false);
